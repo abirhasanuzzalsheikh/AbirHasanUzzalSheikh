@@ -1,4 +1,4 @@
-<img src = "https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/363803319_1624347138059081_8896907003211705683_n.jpg?stp=dst-jpg_s960x960&_nc_cat=100&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGa0E4ZuGOXpWgLjwrKF70-XKk8DmDfQjhcqTwOYN9CODDvL5XgYIjw0FUdEO_Z9egFQigr7syP7oOvOydZAvAK&_nc_ohc=x_kJeacSbIsQ7kNvgHqDw4u&_nc_ht=scontent.fdac14-1.fna&_nc_gid=AJsrTWiqRu2VKX702_Vql9Z&oh=00_AYDnlIV_rxl9jsawfJmrwhPs_YgYJZAybgFi5qB4Sci2zw&oe=66E9F1DB" width300px>
+
 <h1 align="center">Hi 👋, I'm Abir Hasan Uzzal Sheikh</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
