@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👯 I’m looking to collaborate on **g**
+- 👯 I’m looking to collaborate on **Google**
 
 - 💬 Ask me about **HTML CSS JavaScript**
 
